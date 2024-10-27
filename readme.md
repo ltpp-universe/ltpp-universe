@@ -10,7 +10,7 @@
 
 #### **编程语言**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://en.cppreference.com/w/c/language"><code><img height="20"  alt="" src="./images/c.svg"></code></a>
 <a href="https://isocpp.org/"><code><img height="20"  alt="" src="./images/cpp.svg"></code></a>
 <a href="https://www.rust-lang.org/"><code><img height="20"  alt="" src="./images/rust.svg"></code></a>
@@ -21,7 +21,7 @@
 
 #### **前端框架**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://vuejs.org/"><code><img height="20"  alt="" src="./images/vue.svg"></code></a>
 <a href="https://www.electronjs.org/"><code><img height="20"  alt="" src="./images/electron.svg"></code></a
 <a href="https://flutter.dev/"><code><img height="20"  alt="" src="./images/flutter.svg"></code></a>
@@ -32,7 +32,7 @@
 
 #### **前端工具**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://webpack.js.org/"><code><img height="20"  alt="" src="./images/webpack.svg"></code></a>
 <a href="https://vitejs.dev"><code><img height="20"  alt="" src="./images/vite.svg"></code></a>
 <a href="https://element-plus.org/"><code><img height="20"  alt="" src="./images/elementplus.svg"></code></a>
@@ -43,20 +43,20 @@
 
 #### **后端框架**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://www.workerman.net/doc/webman/"><code><img height="20"  alt="" src="./images/webman.ico"></code></a>
 <a href="https://www.kancloud.cn/manual/thinkphp6_0"><code><img height="20"  alt="" src="./images/thinkphp.jpg"></code></a>
 </div>
 
 #### **容器**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://www.docker.com"><code><img height="20"  alt="" src="./images/docker.svg"></code></a>
 </div>
 
 ### **操作系统**
 
-<div style="display:flex">
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 <a href="https://www.linux.org/"><code><img height="20" alt="" src="./images/linux.svg"></code></a>
 <a href="https://www.microsoft.com/windows/"><code><img height="20" alt="" src="./images/windows.svg"></code></a>
 <a href="https://www.apple.com/macos/"><code><img height="20" alt="" src="./images/macos.svg"></code></a>
@@ -67,10 +67,17 @@
 [![](https://activity-graph.herokuapp.com/graph?username=ltpp-universe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=vue)
 
+<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&langs_count=6)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&layout=compact&langs_count=6)
 
+</div>
+
 ### 开源项目
+
+<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ltpp-universe&repo=rust-get-proxy-request)](https://github.com/ltpp-universe/rust-get-proxy-request)
 
@@ -93,3 +100,5 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ltpp-universe&repo=OjJudgeTestdataCreat)](https://github.com/ltpp-universe/OjJudgeTestdataCreat)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ltpp-universe&repo=ltpp-event-publish-subscribe-in-javascript)](https://github.com/ltpp-universe/ltpp-event-publish-subscribe-in-javascript)
+
+</div>
