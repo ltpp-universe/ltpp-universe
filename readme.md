@@ -1,3 +1,5 @@
+# 个人简介
+
 > 只要我们为人民的利益坚持好的，为人民的利益改正错的，我们这个队伍就一定会兴旺起来。
 
 <img align="right" src="https://count.getloli.com/get/@:ltpp-universe?theme=rule34">
@@ -64,7 +66,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=ltpp-universe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://activity-graph.herokuapp.com/graph?username=ltpp-universe&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=vue)
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
