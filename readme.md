@@ -39,7 +39,7 @@
 <a target="_blank" href="https://vitejs.dev"><code><img height="20"  alt="" src="./images/vite.svg"></code></a>
 <a target="_blank" href="https://element-plus.org/"><code><img height="20"  alt="" src="./images/elementplus.svg"></code></a>
 <a target="_blank" href="https://tailwindcss.com"><code><img height="20"  alt="" src="./images/tailwindcss.svg"></code></a>
-<a target="_blank" href="https://lesscss.org/"><code><img height="20"  alt="" src="./images/less.svg"></code></a>
+<a target="_blank" href="https://lesscss.org/"><code><img height="20"  alt="" src="./images/less.png"></code></a>
 <a target="_blank" href="https://sass-lang.com/"><code><img height="20"  alt="" src="./images/sass.svg"></code></a>
 </div>
 
