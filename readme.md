@@ -12,7 +12,7 @@
 
 #### **编程语言**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 
 <a target="_blank" href="https://en.cppreference.com/w/c/language"><img height="20" alt="" src="./images/c.svg"></a>
 <a target="_blank" href="https://isocpp.org/"><img height="20" alt="" src="./images/cpp.svg"></a>
@@ -25,7 +25,7 @@
 
 #### **前端框架**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 
 <a target="_blank" href="https://vuejs.org/"><img height="20" alt="" src="./images/vue.svg"></a>
 <a target="_blank" href="https://www.electronjs.org/"><img height="20" alt="" src="./images/electron.svg"></a>
@@ -38,7 +38,7 @@
 
 #### **前端工具**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 
 <a target="_blank" href="https://webpack.js.org/"><img height="20" alt="" src="./images/webpack.svg"></a>
 <a target="_blank" href="https://vitejs.dev"><img height="20" alt="" src="./images/vite.svg"></a>
@@ -51,7 +51,7 @@
 
 #### **后端框架**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 
 <a target="_blank" href="https://www.workerman.net/doc/webman/"><img height="20" alt="" src="./images/webman.ico"></a>
 <a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0"><img height="20" alt="" src="./images/thinkphp.jpg"></a>
@@ -60,13 +60,13 @@
 
 #### **容器**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 <a target="_blank" href="https://www.docker.com"><img height="20" alt="" src="./images/docker.svg"></a>
 </div>
 
 ### **操作系统**
 
-<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;">
 
 <a target="_blank" href="https://www.linux.org/"><img height="20" alt="" src="./images/linux.svg"></a>
 <a target="_blank" href="https://www.microsoft.com/windows/"><img height="20" alt="" src="./images/windows.svg"></a>
