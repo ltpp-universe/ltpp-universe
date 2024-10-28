@@ -14,12 +14,12 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 
-<a target="_blank" href="https://en.cppreference.com/w/c/language"><code><img height="20" alt="" src="./images/c.svg"></code></a>
-<a target="_blank" href="https://isocpp.org/"><code><img height="20" alt="" src="./images/cpp.svg"></code></a>
-<a target="_blank" href="https://www.rust-lang.org/"><code><img height="20" alt="" src="./images/rust.svg"></code></a>
-<a target="_blank" href="https://www.php.net/"><code><img height="20" alt="" src="./images/php.svg"></code></a>
-<a target="_blank" href="https://nodejs.org/"><code><img height="20" alt="" src="./images/nodejs.svg"></code></a>
-<a target="_blank" href="https://www.tslang.cn/index.html"><code><img height="20" alt="" src="./images/typescript.svg"></code></a>
+<a target="_blank" href="https://en.cppreference.com/w/c/language"><img height="20" alt="" src="./images/c.svg"></a>
+<a target="_blank" href="https://isocpp.org/"><img height="20" alt="" src="./images/cpp.svg"></a>
+<a target="_blank" href="https://www.rust-lang.org/"><img height="20" alt="" src="./images/rust.svg"></a>
+<a target="_blank" href="https://www.php.net/"><img height="20" alt="" src="./images/php.svg"></a>
+<a target="_blank" href="https://nodejs.org/"><img height="20" alt="" src="./images/nodejs.svg"></a>
+<a target="_blank" href="https://www.tslang.cn/index.html"><img height="20" alt="" src="./images/typescript.svg"></a>
 
 </div>
 
@@ -27,12 +27,12 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 
-<a target="_blank" href="https://vuejs.org/"><code><img height="20" alt="" src="./images/vue.svg"></code></a>
-<a target="_blank" href="https://www.electronjs.org/"><code><img height="20" alt="" src="./images/electron.svg"></code></a>
-<a target="_blank" href="https://flutter.dev/"><code><img height="20" alt="" src="./images/flutter.svg"></code></a>
-<a target="_blank" href="https://v2.tauri.app/"><code><img height="20" alt="" src="./images/tauri.svg"></code></a>
-<a target="_blank" href="https://slint.dev/"><code><img height="20" alt="" src="./images/slint.svg"></code></a>
-<a target="_blank" href="https://dioxuslabs.com/"><code><img height="20" alt="" src="./images/dioxus.png"></code></a>
+<a target="_blank" href="https://vuejs.org/"><img height="20" alt="" src="./images/vue.svg"></a>
+<a target="_blank" href="https://www.electronjs.org/"><img height="20" alt="" src="./images/electron.svg"></a>
+<a target="_blank" href="https://flutter.dev/"><img height="20" alt="" src="./images/flutter.svg"></a>
+<a target="_blank" href="https://v2.tauri.app/"><img height="20" alt="" src="./images/tauri.svg"></a>
+<a target="_blank" href="https://slint.dev/"><img height="20" alt="" src="./images/slint.svg"></a>
+<a target="_blank" href="https://dioxuslabs.com/"><img height="20" alt="" src="./images/dioxus.png"></a>
 
 </div>
 
@@ -40,12 +40,12 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 
-<a target="_blank" href="https://webpack.js.org/"><code><img height="20" alt="" src="./images/webpack.svg"></code></a>
-<a target="_blank" href="https://vitejs.dev"><code><img height="20" alt="" src="./images/vite.svg"></code></a>
-<a target="_blank" href="https://element-plus.org/"><code><img height="20" alt="" src="./images/elementplus.svg"></code></a>
-<a target="_blank" href="https://tailwindcss.com"><code><img height="20" alt="" src="./images/tailwindcss.svg"></code></a>
-<a target="_blank" href="https://lesscss.org/"><code><img height="20" alt="" src="./images/less.png"></code></a>
-<a target="_blank" href="https://sass-lang.com/"><code><img height="20" alt="" src="./images/sass.svg"></code></a>
+<a target="_blank" href="https://webpack.js.org/"><img height="20" alt="" src="./images/webpack.svg"></a>
+<a target="_blank" href="https://vitejs.dev"><img height="20" alt="" src="./images/vite.svg"></a>
+<a target="_blank" href="https://element-plus.org/"><img height="20" alt="" src="./images/elementplus.svg"></a>
+<a target="_blank" href="https://tailwindcss.com"><img height="20" alt="" src="./images/tailwindcss.svg"></a>
+<a target="_blank" href="https://lesscss.org/"><img height="20" alt="" src="./images/less.png"></a>
+<a target="_blank" href="https://sass-lang.com/"><img height="20" alt="" src="./images/sass.svg"></a>
 
 </div>
 
@@ -53,24 +53,24 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 
-<a target="_blank" href="https://www.workerman.net/doc/webman/"><code><img height="20" alt="" src="./images/webman.ico"></code></a>
-<a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0"><code><img height="20" alt="" src="./images/thinkphp.jpg"></code></a>
+<a target="_blank" href="https://www.workerman.net/doc/webman/"><img height="20" alt="" src="./images/webman.ico"></a>
+<a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0"><img height="20" alt="" src="./images/thinkphp.jpg"></a>
 
 </div>
 
 #### **容器**
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
-<a target="_blank" href="https://www.docker.com"><code><img height="20" alt="" src="./images/docker.svg"></code></a>
+<a target="_blank" href="https://www.docker.com"><img height="20" alt="" src="./images/docker.svg"></a>
 </div>
 
 ### **操作系统**
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:flex-start;">
 
-<a target="_blank" href="https://www.linux.org/"><code><img height="20" alt="" src="./images/linux.svg"></code></a>
-<a target="_blank" href="https://www.microsoft.com/windows/"><code><img height="20" alt="" src="./images/windows.svg"></code></a>
-<a target="_blank" href="https://www.apple.com/macos/"><code><img height="20" alt="" src="./images/macos.svg"></code></a>
+<a target="_blank" href="https://www.linux.org/"><img height="20" alt="" src="./images/linux.svg"></a>
+<a target="_blank" href="https://www.microsoft.com/windows/"><img height="20" alt="" src="./images/windows.svg"></a>
+<a target="_blank" href="https://www.apple.com/macos/"><img height="20" alt="" src="./images/macos.svg"></a>
 
 </div>
 
