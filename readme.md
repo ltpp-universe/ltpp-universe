@@ -4,7 +4,7 @@
 
 > 只要我们为人民的利益坚持好的，为人民的利益改正错的，我们这个队伍就一定会兴旺起来。
 
-<img alt="" style="border:2px solid #818b981f;" align="right" src="https://count.getloli.com/get/@:ltpp-universe?theme=rule34">
+<img alt="" style="border:2px solid #818b981f;margin-bottom:16px" align="right" src="https://count.getloli.com/get/@:ltpp-universe?theme=rule34">
 
 </div>
 
