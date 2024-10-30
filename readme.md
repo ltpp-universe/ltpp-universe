@@ -1,12 +1,12 @@
 # 个人简介
 
-<div style="display:flex;flex-wrap:wrap;align-items:flex-start;">
+<div>
 
 > 只要我们为人民的利益坚持好的，为人民的利益改正错的，我们这个队伍就一定会兴旺起来。
 
-<div style="margin-bottom:16px:width:auto;height:100%" align="right">
-<img alt="" src="https://count.getloli.com/get/@:ltpp-universe?theme=rule34">
-</div>
+<a style="margin-bottom:16px:width:auto;height:100%" >
+<img alt="" align="right" src="https://count.getloli.com/get/@:ltpp-universe?theme=rule34">
+</a>
 
 </div>
 
