@@ -185,15 +185,8 @@
 
 </div>
 
-### Github 活跃度
+### Github 统计
 
-![](https://activity-graph.herokuapp.com/graph?username=ltpp-universe&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=vue)
-
-<div class="wrap">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&langs_count=6)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&layout=compact&langs_count=6)
-
-</div>
+![](https://github-immortality.vercel.app/api?username=ltpp-universe)
+![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
