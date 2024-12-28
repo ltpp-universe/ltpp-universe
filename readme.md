@@ -101,12 +101,30 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
+<div style="display:flex;">
+<code>C</code>
 <a target="_blank" href="https://en.cppreference.com/w/c/language"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/c.svg"></a>
+</div>
+<div style="display:flex;">
+<code>C++</code>
 <a target="_blank" href="https://isocpp.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/cpp.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Rust</code>
 <a target="_blank" href="https://www.rust-lang.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/rust.svg"></a>
+</div>
+<div style="display:flex;">
+<code>PHP</code>
 <a target="_blank" href="https://www.php.net/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/php.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Nodejs</code>
 <a target="_blank" href="https://nodejs.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/nodejs.svg"></a>
+</div>
+<div style="display:flex;">
+<code>TypeScript</code>
 <a target="_blank" href="https://www.tslang.cn/index.html"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/typescript.svg"></a>
+</div>
 
 </div>
 
@@ -114,12 +132,30 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
+<div style="display:flex;">
+<code>Vue.js</code>
 <a target="_blank" href="https://vuejs.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/vue.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Electron</code>
 <a target="_blank" href="https://www.electronjs.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/electron.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Flutter</code>
 <a target="_blank" href="https://flutter.dev/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/flutter.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Tauri</code>
 <a target="_blank" href="https://v2.tauri.app/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/tauri.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Slint</code>
 <a target="_blank" href="https://slint.dev/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/slint.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Dioxus</code>
 <a target="_blank" href="https://dioxuslabs.com/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/dioxus.png"></a>
+</div>
 
 </div>
 
@@ -127,12 +163,30 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
+<div style="display:flex;">
+<code>Webpack</code>
 <a target="_blank" href="https://webpack.js.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/webpack.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Vite</code>
 <a target="_blank" href="https://vitejs.dev"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/vite.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Element plus</code>
 <a target="_blank" href="https://element-plus.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/elementplus.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Tailwind CSS</code>
 <a target="_blank" href="https://tailwindcss.com"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/tailwindcss.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Less</code>
 <a target="_blank" href="https://lesscss.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/less.png"></a>
+</div>
+<div style="display:flex;">
+<code>Sass</code>
 <a target="_blank" href="https://sass-lang.com/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/sass.svg"></a>
+</div>
 
 </div>
 
@@ -140,24 +194,44 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
+<div style="display:flex;">
+<code>Webman</code>
 <a target="_blank" href="https://www.workerman.net/doc/webman/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/webman.ico"></a>
+</div>
+<div style="display:flex;">
+<code>Thinkphp</code>
 <a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/thinkphp.jpg"></a>
+</div>
 
 </div>
 
 #### **容器**
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
+
+<div style="display:flex;">
+<code>Docker</code>
 <a target="_blank" href="https://www.docker.com"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/docker.svg"></a>
+</div>
+
 </div>
 
 ### **操作系统**
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;">
 
+<div style="display:flex;">
+<code>Linux</code>
 <a target="_blank" href="https://www.linux.org/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/linux.svg"></a>
+</div>
+<div style="display:flex;">
+<code>Windows</code>
 <a target="_blank" href="https://www.microsoft.com/windows/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/windows.svg"></a>
+</div>
+<div style="display:flex;">
+<code>MacOS</code>
 <a target="_blank" href="https://www.apple.com/macos/"><img style="border:2px solid #818b981f;border-radius:20%;" height="22" alt="" src="./images/macos.svg"></a>
+</div>
 
 </div>
 
