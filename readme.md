@@ -39,6 +39,13 @@
 [![](https://img.shields.io/crates/l/http-type.svg)](./LICENSE)
 [![](https://github.com/ltpp-universe/http-type/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-type/actions?query=workflow:Rust)
 
+#### hyperlane-log
+
+[![](https://img.shields.io/crates/v/hyperlane-log.svg)](https://crates.io/crates/hyperlane-log)
+[![](https://docs.rs/hyperlane-log/badge.svg)](https://docs.rs/hyperlane-log)
+[![](https://img.shields.io/crates/l/hyperlane-log.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/hyperlane-log/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-log/actions?query=workflow:Rust)
+
 #### http-response
 
 [![](https://img.shields.io/crates/v/http-response.svg)](https://crates.io/crates/http-response)
