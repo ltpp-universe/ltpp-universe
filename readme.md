@@ -50,6 +50,13 @@
 [![](https://img.shields.io/crates/l/hyperlane-log.svg)](./LICENSE)
 [![](https://github.com/ltpp-universe/hyperlane-log/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-log/actions?query=workflow:Rust)
 
+#### hyperlane-time
+
+[![](https://img.shields.io/crates/v/hyperlane-time.svg)](https://crates.io/crates/hyperlane-time)
+[![](https://docs.rs/hyperlane-time/badge.svg)](https://docs.rs/hyperlane-time)
+[![](https://img.shields.io/crates/l/hyperlane-time.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/hyperlane-time/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-time/actions?query=workflow:Rust)
+
 #### http-response
 
 [![](https://img.shields.io/crates/v/http-response.svg)](https://crates.io/crates/http-response)
