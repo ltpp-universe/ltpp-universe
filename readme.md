@@ -66,13 +66,6 @@
 [![](https://img.shields.io/crates/l/http-response.svg)](./LICENSE)
 [![](https://github.com/ltpp-universe/http-response/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-response/actions?query=workflow:Rust)
 
-#### recoverable-thread-pool
-
-[![](https://img.shields.io/crates/v/recoverable-thread-pool.svg)](https://crates.io/crates/recoverable-thread-pool)
-[![](https://docs.rs/recoverable-thread-pool/badge.svg)](https://docs.rs/recoverable-thread-pool)
-[![](https://img.shields.io/crates/l/recoverable-thread-pool.svg)](./LICENSE)
-[![](https://github.com/ltpp-universe/recoverable-thread-pool/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-thread-pool/actions?query=workflow:Rust)
-
 #### file-operation
 
 [![](https://img.shields.io/crates/v/file-operation.svg)](https://crates.io/crates/file-operation)
