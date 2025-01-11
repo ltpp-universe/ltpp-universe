@@ -64,12 +64,33 @@
 [![](https://img.shields.io/crates/l/http-response.svg)](./LICENSE)
 [![](https://github.com/ltpp-universe/http-response/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-response/actions?query=workflow:Rust)
 
-#### http-compress
+#### recoverable-thread-pool
 
-[![](https://img.shields.io/crates/v/http-compress.svg)](https://crates.io/crates/http-compress)
-[![](https://docs.rs/http-compress/badge.svg)](https://docs.rs/http-compress)
-[![](https://img.shields.io/crates/l/http-compress.svg)](./LICENSE)
-[![](https://github.com/ltpp-universe/http-compress/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-compress/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/v/recoverable-thread-pool.svg)](https://crates.io/crates/recoverable-thread-pool)
+[![](https://docs.rs/recoverable-thread-pool/badge.svg)](https://docs.rs/recoverable-thread-pool)
+[![](https://img.shields.io/crates/l/recoverable-thread-pool.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/recoverable-thread-pool/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-thread-pool/actions?query=workflow:Rust)
+
+#### file-operation
+
+[![](https://img.shields.io/crates/v/file-operation.svg)](https://crates.io/crates/file-operation)
+[![](https://docs.rs/file-operation/badge.svg)](https://docs.rs/file-operation)
+[![](https://img.shields.io/crates/l/file-operation.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/file-operation/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/file-operation/actions?query=workflow:Rust)
+
+#### recoverable-spawn
+
+[![](https://img.shields.io/crates/v/recoverable-spawn.svg)](https://crates.io/crates/recoverable-spawn)
+[![](https://docs.rs/recoverable-spawn/badge.svg)](https://docs.rs/recoverable-spawn)
+[![](https://img.shields.io/crates/l/recoverable-spawn.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/recoverable-spawn/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-spawn/actions?query=workflow:Rust)
+
+#### recoverable-thread-pool
+
+[![](https://img.shields.io/crates/v/recoverable-thread-pool.svg)](https://crates.io/crates/recoverable-thread-pool)
+[![](https://docs.rs/recoverable-thread-pool/badge.svg)](https://docs.rs/recoverable-thread-pool)
+[![](https://img.shields.io/crates/l/recoverable-thread-pool.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/recoverable-thread-pool/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-thread-pool/actions?query=workflow:Rust)
 
 #### compare-version
 
@@ -195,5 +216,5 @@
 ### Github 统计
 
 ![](https://github-immortality.vercel.app/api?username=ltpp-universe)
-![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
