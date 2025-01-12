@@ -10,6 +10,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ltpp-universe)
 
+![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=radical)
+
 ### **社交主页**
 
 <a target="_blank" href="https://x.com/ltpp_universe"><code>X 主页</code></a>
@@ -210,6 +212,6 @@
 
 ### Github 统计
 
-![](https://github-immortality.vercel.app/api?username=ltpp-universe)
-![](https://github-readme-stats.vercel.app/api?username=ltpp-universe&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltpp-universe&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
+![](https://github-immortality.vercel.app/api?username=ltpp-universe)
