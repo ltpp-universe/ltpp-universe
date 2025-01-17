@@ -124,6 +124,13 @@
 [![](https://img.shields.io/crates/l/http-constant.svg)](./LICENSE)
 [![](https://github.com/ltpp-universe/http-constant/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-constant/actions?query=workflow:Rust)
 
+#### clonelicious
+
+[![](https://img.shields.io/crates/v/clonelicious.svg)](https://crates.io/crates/clonelicious)
+[![](https://docs.rs/clonelicious/badge.svg)](https://docs.rs/clonelicious)
+[![](https://img.shields.io/crates/l/clonelicious.svg)](./LICENSE)
+[![](https://github.com/ltpp-universe/clonelicious/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/clonelicious/actions?query=workflow:Rust)
+
 ### **技术栈**
 
 #### **编程语言**
