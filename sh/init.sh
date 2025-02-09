@@ -1,5 +1,5 @@
 #!/bin/bash
 git init;
 git config core.ignorecase false;
-git remote add gitee git@gitee.com:ltpp-universe/root.git;
+git remote add gitee git@gitee.com:ltpp-universe/ltpp-universe.git;
 git remote add origin git@github.com:ltpp-universe/ltpp-universe.git;
