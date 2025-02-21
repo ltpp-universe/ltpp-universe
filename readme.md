@@ -103,12 +103,12 @@
 [![](https://github.com/ltpp-universe/std-macro-extensions/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/std-macro-extensions/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/std-macro-extensions.svg)](./LICENSE)
 
-#### bin-encrypt-decrypt
+#### bin-encode-decode
 
-[![](https://img.shields.io/crates/v/bin-encrypt-decrypt.svg)](https://crates.io/crates/bin-encrypt-decrypt)
-[![](https://docs.rs/bin-encrypt-decrypt/badge.svg)](https://docs.rs/bin-encrypt-decrypt)
-[![](https://github.com/ltpp-universe/bin-encrypt-decrypt/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/bin-encrypt-decrypt/actions?query=workflow:Rust)
-[![](https://img.shields.io/crates/l/bin-encrypt-decrypt.svg)](./LICENSE)
+[![](https://img.shields.io/crates/v/bin-encode-decode.svg)](https://crates.io/crates/bin-encode-decode)
+[![](https://docs.rs/bin-encode-decode/badge.svg)](https://docs.rs/bin-encode-decode)
+[![](https://github.com/ltpp-universe/bin-encode-decode/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/bin-encode-decode/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/bin-encode-decode.svg)](./LICENSE)
 
 #### http-constant
 
