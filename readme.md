@@ -194,15 +194,10 @@
 <div class="wrap">
 
 <a target="_blank" href="https://en.cppreference.com/w/c/language" class="link"><img class="img" height="22" alt="" src="./images/c.svg"><code>C</code></a>
-
 <a target="_blank" href="https://isocpp.org/" class="link"><img class="img" height="22" alt="" src="./images/cpp.svg"><code>C++</code></a>
-
 <a target="_blank" href="https://www.rust-lang.org/" class="link"><img class="img" height="22" alt="" src="./images/rust.svg"><code>Rust</code></a>
-
 <a target="_blank" href="https://www.php.net/" class="link"><img class="img" height="22" alt="" src="./images/php.svg"><code>PHP</code></a>
-
 <a target="_blank" href="https://nodejs.org/" class="link"><img class="img" height="22" alt="" src="./images/nodejs.svg"><code>Nodejs</code></a>
-
 <a target="_blank" href="https://www.tslang.cn/index.html" class="link"><img class="img" height="22" alt="" src="./images/typescript.svg"><code>TypeScript</code></a>
 
 </div>
@@ -212,15 +207,10 @@
 <div class="wrap">
 
 <a target="_blank" href="https://vuejs.org/" class="link"><img class="img" height="22" alt="" src="./images/vue.svg"><code>Vue.js</code></a>
-
 <a target="_blank" href="https://www.electronjs.org/" class="link"><img class="img" height="22" alt="" src="./images/electron.svg"><code>Electron</code></a>
-
 <a target="_blank" href="https://flutter.dev/" class="link"><img class="img" height="22" alt="" src="./images/flutter.svg"><code>Flutter</code></a>
-
 <a target="_blank" href="https://v2.tauri.app/" class="link"><img class="img" height="22" alt="" src="./images/tauri.svg"><code>Tauri</code></a>
-
 <a target="_blank" href="https://slint.dev/" class="link"><img class="img" height="22" alt="" src="./images/slint.svg"><code>Slint</code></a>
-
 <a target="_blank" href="https://dioxuslabs.com/" class="link"><img class="img" height="22" alt="" src="./images/dioxus.png"><code>Dioxus</code></a>
 
 </div>
@@ -230,15 +220,10 @@
 <div class="wrap">
 
 <a target="_blank" href="https://webpack.js.org/" class="link"><img class="img" height="22" alt="" src="./images/webpack.svg"><code>Webpack</code></a>
-
 <a target="_blank" href="https://vitejs.dev" class="link"><img class="img" height="22" alt="" src="./images/vite.svg"><code>Vite</code></a>
-
 <a target="_blank" href="https://element-plus.org/" class="link"><img class="img" height="22" alt="" src="./images/elementplus.svg"><code>Element plus</code></a>
-
 <a target="_blank" href="https://tailwindcss.com" class="link"><img class="img" height="22" alt="" src="./images/tailwindcss.svg"></a>
-
 <a target="_blank" href="https://lesscss.org/" class="link"><img class="img" height="22" alt="" src="./images/less.png"><code>Less</code></a>
-
 <a target="_blank" href="https://sass-lang.com/" class="link"><img class="img" height="22" alt="" src="./images/sass.svg"><code>Sass</code></a>
 
 </div>
@@ -248,7 +233,6 @@
 <div class="wrap">
 
 <a target="_blank" href="https://www.workerman.net/doc/webman/" class="link"><img class="img" height="22" alt="" src="./images/webman.ico"><code>Webman</code></a>
-
 <a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0" class="link"><img class="img" height="22" alt="" src="./images/thinkphp.jpg"><code>Thinkphp</code></a>
 
 </div>
@@ -266,9 +250,7 @@
 <div class="wrap">
 
 <a target="_blank" href="https://www.linux.org/" class="link"><img class="img" height="22" alt="" src="./images/linux.svg"><code>Linux</code></a>
-
 <a target="_blank" href="https://www.microsoft.com/windows/" class="link"><img class="img" height="22" alt="" src="./images/windows.svg"><code>Windows</code></a>
-
 <a target="_blank" href="https://www.apple.com/macos/" class="link"><img class="img" height="22" alt="" src="./images/macos.svg"><code>MacOS</code></a>
 
 </div>
