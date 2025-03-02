@@ -22,6 +22,7 @@
 #### hyperlane
 
 [![](https://img.shields.io/crates/v/hyperlane.svg)](https://crates.io/crates/hyperlane)
+[![](https://img.shields.io/crates/d/hyperlane.svg)](https://img.shields.io/crates/d/hyperlane.svg)
 [![](https://docs.rs/hyperlane/badge.svg)](https://docs.rs/hyperlane)
 [![](https://github.com/ltpp-universe/hyperlane/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/hyperlane.svg)](./LICENSE)
@@ -29,13 +30,47 @@
 #### http-request
 
 [![](https://img.shields.io/crates/v/http-request.svg)](https://crates.io/crates/http-request)
+[![](https://img.shields.io/crates/d/http-request.svg)](https://img.shields.io/crates/d/http-request.svg)
 [![](https://docs.rs/http-request/badge.svg)](https://docs.rs/http-request)
 [![](https://github.com/ltpp-universe/http-request/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-request/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/http-request.svg)](./LICENSE)
 
+#### tcplane
+
+[![](https://img.shields.io/crates/v/tcplane.svg)](https://crates.io/crates/tcplane)
+[![](https://img.shields.io/crates/d/tcplane.svg)](https://img.shields.io/crates/d/tcplane.svg)
+[![](https://docs.rs/tcplane/badge.svg)](https://docs.rs/tcplane)
+[![](https://github.com/ltpp-universe/tcplane/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/tcplane/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/tcplane.svg)](./LICENSE)
+
+#### tcp-request
+
+[![](https://img.shields.io/crates/v/tcp-request.svg)](https://crates.io/crates/tcp-request)
+[![](https://img.shields.io/crates/d/tcp-request.svg)](https://img.shields.io/crates/d/tcp-request.svg)
+[![](https://docs.rs/tcp-request/badge.svg)](https://docs.rs/tcp-request)
+[![](https://github.com/ltpp-universe/tcp-request/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/tcp-request/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/tcp-request.svg)](./LICENSE)
+
+#### udp
+
+[![](https://img.shields.io/crates/v/udp.svg)](https://crates.io/crates/udp)
+[![](https://img.shields.io/crates/d/udp.svg)](https://img.shields.io/crates/d/udp.svg)
+[![](https://docs.rs/udp/badge.svg)](https://docs.rs/udp)
+[![](https://github.com/ltpp-universe/udp/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/udp/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/udp.svg)](./LICENSE)
+
+#### udp-request
+
+[![](https://img.shields.io/crates/v/udp-request.svg)](https://crates.io/crates/udp-request)
+[![](https://img.shields.io/crates/d/udp-request.svg)](https://img.shields.io/crates/d/udp-request.svg)
+[![](https://docs.rs/udp-request/badge.svg)](https://docs.rs/udp-request)
+[![](https://github.com/ltpp-universe/udp-request/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/udp-request/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/udp-request.svg)](./LICENSE)
+
 #### lombok-macros
 
 [![](https://img.shields.io/crates/v/lombok-macros.svg)](https://crates.io/crates/lombok-macros)
+[![](https://img.shields.io/crates/d/lombok-macros.svg)](https://img.shields.io/crates/d/lombok-macros.svg)
 [![](https://docs.rs/lombok-macros/badge.svg)](https://docs.rs/lombok-macros)
 [![](https://github.com/ltpp-universe/lombok-macros/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/lombok-macros/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/lombok-macros.svg)](./LICENSE)
@@ -43,6 +78,7 @@
 #### http-type
 
 [![](https://img.shields.io/crates/v/http-type.svg)](https://crates.io/crates/http-type)
+[![](https://img.shields.io/crates/d/http-type.svg)](https://img.shields.io/crates/d/http-type.svg)
 [![](https://docs.rs/http-type/badge.svg)](https://docs.rs/http-type)
 [![](https://github.com/ltpp-universe/http-type/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-type/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/http-type.svg)](./LICENSE)
@@ -50,6 +86,7 @@
 #### hyperlane-log
 
 [![](https://img.shields.io/crates/v/hyperlane-log.svg)](https://crates.io/crates/hyperlane-log)
+[![](https://img.shields.io/crates/d/hyperlane-log.svg)](https://img.shields.io/crates/d/hyperlane-log.svg)
 [![](https://docs.rs/hyperlane-log/badge.svg)](https://docs.rs/hyperlane-log)
 [![](https://github.com/ltpp-universe/hyperlane-log/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-log/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/hyperlane-log.svg)](./LICENSE)
@@ -57,6 +94,7 @@
 #### hyperlane-time
 
 [![](https://img.shields.io/crates/v/hyperlane-time.svg)](https://crates.io/crates/hyperlane-time)
+[![](https://img.shields.io/crates/d/hyperlane-time.svg)](https://img.shields.io/crates/d/hyperlane-time.svg)
 [![](https://docs.rs/hyperlane-time/badge.svg)](https://docs.rs/hyperlane-time)
 [![](https://github.com/ltpp-universe/hyperlane-time/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-time/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/hyperlane-time.svg)](./LICENSE)
@@ -64,6 +102,7 @@
 #### file-operation
 
 [![](https://img.shields.io/crates/v/file-operation.svg)](https://crates.io/crates/file-operation)
+[![](https://img.shields.io/crates/d/file-operation.svg)](https://img.shields.io/crates/d/file-operation.svg)
 [![](https://docs.rs/file-operation/badge.svg)](https://docs.rs/file-operation)
 [![](https://github.com/ltpp-universe/file-operation/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/file-operation/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/file-operation.svg)](./LICENSE)
@@ -71,6 +110,7 @@
 #### recoverable-spawn
 
 [![](https://img.shields.io/crates/v/recoverable-spawn.svg)](https://crates.io/crates/recoverable-spawn)
+[![](https://img.shields.io/crates/d/recoverable-spawn.svg)](https://img.shields.io/crates/d/recoverable-spawn.svg)
 [![](https://docs.rs/recoverable-spawn/badge.svg)](https://docs.rs/recoverable-spawn)
 [![](https://github.com/ltpp-universe/recoverable-spawn/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-spawn/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/recoverable-spawn.svg)](./LICENSE)
@@ -78,6 +118,7 @@
 #### recoverable-thread-pool
 
 [![](https://img.shields.io/crates/v/recoverable-thread-pool.svg)](https://crates.io/crates/recoverable-thread-pool)
+[![](https://img.shields.io/crates/d/recoverable-thread-pool.svg)](https://img.shields.io/crates/d/recoverable-thread-pool.svg)
 [![](https://docs.rs/recoverable-thread-pool/badge.svg)](https://docs.rs/recoverable-thread-pool)
 [![](https://github.com/ltpp-universe/recoverable-thread-pool/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/recoverable-thread-pool/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/recoverable-thread-pool.svg)](./LICENSE)
@@ -85,6 +126,7 @@
 #### compare-version
 
 [![](https://img.shields.io/crates/v/compare_version.svg)](https://crates.io/crates/compare_version)
+[![](https://img.shields.io/crates/d/compare-version.svg)](https://img.shields.io/crates/d/compare-version.svg)
 [![](https://docs.rs/compare_version/badge.svg)](https://docs.rs/compare_version)
 [![](https://github.com/ltpp-universe/compare_version/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/compare_version/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/compare_version.svg)](./LICENSE)
@@ -92,6 +134,7 @@
 #### china-identification-card
 
 [![](https://img.shields.io/crates/v/china_identification_card.svg)](https://crates.io/crates/china_identification_card)
+[![](https://img.shields.io/crates/d/china-identification-card.svg)](https://img.shields.io/crates/d/china-identification-card.svg)
 [![](https://docs.rs/china_identification_card/badge.svg)](https://docs.rs/china_identification_card)
 [![](https://github.com/ltpp-universe/china_identification_card/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/china_identification_card/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/china_identification_card.svg)](./LICENSE)
@@ -99,6 +142,7 @@
 #### std-macro-extensions
 
 [![](https://img.shields.io/crates/v/std-macro-extensions.svg)](https://crates.io/crates/std-macro-extensions)
+[![](https://img.shields.io/crates/d/std-macro-extensions.svg)](https://img.shields.io/crates/d/std-macro-extensions.svg)
 [![](https://docs.rs/std-macro-extensions/badge.svg)](https://docs.rs/std-macro-extensions)
 [![](https://github.com/ltpp-universe/std-macro-extensions/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/std-macro-extensions/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/std-macro-extensions.svg)](./LICENSE)
@@ -106,6 +150,7 @@
 #### bin-encode-decode
 
 [![](https://img.shields.io/crates/v/bin-encode-decode.svg)](https://crates.io/crates/bin-encode-decode)
+[![](https://img.shields.io/crates/d/bin-encode-decode.svg)](https://img.shields.io/crates/d/bin-encode-decode.svg)
 [![](https://docs.rs/bin-encode-decode/badge.svg)](https://docs.rs/bin-encode-decode)
 [![](https://github.com/ltpp-universe/bin-encode-decode/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/bin-encode-decode/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/bin-encode-decode.svg)](./LICENSE)
@@ -113,6 +158,7 @@
 #### http-constant
 
 [![](https://img.shields.io/crates/v/http-constant.svg)](https://crates.io/crates/http-constant)
+[![](https://img.shields.io/crates/d/http-constant.svg)](https://img.shields.io/crates/d/http-constant.svg)
 [![](https://docs.rs/http-constant/badge.svg)](https://docs.rs/http-constant)
 [![](https://github.com/ltpp-universe/http-constant/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/http-constant/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/http-constant.svg)](./LICENSE)
@@ -120,6 +166,7 @@
 #### clonelicious
 
 [![](https://img.shields.io/crates/v/clonelicious.svg)](https://crates.io/crates/clonelicious)
+[![](https://img.shields.io/crates/d/clonelicious.svg)](https://img.shields.io/crates/d/clonelicious.svg)
 [![](https://docs.rs/clonelicious/badge.svg)](https://docs.rs/clonelicious)
 [![](https://github.com/ltpp-universe/clonelicious/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/clonelicious/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/clonelicious.svg)](./LICENSE)
@@ -127,9 +174,18 @@
 #### async-func
 
 [![](https://img.shields.io/crates/v/async-func.svg)](https://crates.io/crates/async-func)
+[![](https://img.shields.io/crates/d/async-func.svg)](https://img.shields.io/crates/d/async-func.svg)
 [![](https://docs.rs/async-func/badge.svg)](https://docs.rs/async-func)
 [![](https://github.com/ltpp-universe/async-func/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/async-func/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/async-func.svg)](./LICENSE)
+
+#### server-manager
+
+[![](https://img.shields.io/crates/v/server-manager.svg)](https://crates.io/crates/server-manager)
+[![](https://img.shields.io/crates/d/server-manager.svg)](https://img.shields.io/crates/d/server-manager.svg)
+[![](https://docs.rs/server-manager/badge.svg)](https://docs.rs/server-manager)
+[![](https://github.com/ltpp-universe/server-manager/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/server-manager/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/server-manager.svg)](./LICENSE)
 
 ### **技术栈**
 
