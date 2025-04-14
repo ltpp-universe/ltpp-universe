@@ -27,6 +27,14 @@
 [![](https://github.com/ltpp-universe/hyperlane/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/hyperlane.svg)](./LICENSE)
 
+#### hyperlane-quick-start
+
+[![](https://img.shields.io/crates/v/hyperlane-quick-start.svg)](https://crates.io/crates/hyperlane-quick-start)
+[![](https://img.shields.io/crates/d/hyperlane-quick-start.svg)](https://img.shields.io/crates/d/hyperlane-quick-start.svg)
+[![](https://docs.rs/hyperlane-quick-start/badge.svg)](https://docs.rs/hyperlane-quick-start)
+[![](https://github.com/ltpp-universe/hyperlane-quick-start/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/hyperlane-quick-start/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/hyperlane-quick-start.svg)](./LICENSE)
+
 #### http-request
 
 [![](https://img.shields.io/crates/v/http-request.svg)](https://crates.io/crates/http-request)
@@ -194,6 +202,14 @@
 [![](https://docs.rs/chunkify/badge.svg)](https://docs.rs/chunkify)
 [![](https://github.com/ltpp-universe/chunkify/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/chunkify/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/chunkify.svg)](./LICENSE)
+
+#### gtl
+
+[![](https://img.shields.io/crates/v/gtl.svg)](https://crates.io/crates/gtl)
+[![](https://img.shields.io/crates/d/gtl.svg)](https://img.shields.io/crates/d/gtl.svg)
+[![](https://docs.rs/gtl/badge.svg)](https://docs.rs/gtl)
+[![](https://github.com/ltpp-universe/gtl/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/gtl/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/gtl.svg)](./LICENSE)
 
 ### **技术栈**
 
