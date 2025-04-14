@@ -187,6 +187,14 @@
 [![](https://github.com/ltpp-universe/server-manager/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/server-manager/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/server-manager.svg)](./LICENSE)
 
+#### chunkify
+
+[![](https://img.shields.io/crates/v/chunkify.svg)](https://crates.io/crates/chunkify)
+[![](https://img.shields.io/crates/d/chunkify.svg)](https://img.shields.io/crates/d/chunkify.svg)
+[![](https://docs.rs/chunkify/badge.svg)](https://docs.rs/chunkify)
+[![](https://github.com/ltpp-universe/chunkify/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/chunkify/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/chunkify.svg)](./LICENSE)
+
 ### **技术栈**
 
 #### **编程语言**
