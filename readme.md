@@ -171,13 +171,13 @@
 [![](https://github.com/ltpp-universe/clonelicious/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/clonelicious/actions?query=workflow:Rust)
 [![](https://img.shields.io/crates/l/clonelicious.svg)](./LICENSE)
 
-#### async-func
+#### future-fn
 
-[![](https://img.shields.io/crates/v/async-func.svg)](https://crates.io/crates/async-func)
-[![](https://img.shields.io/crates/d/async-func.svg)](https://img.shields.io/crates/d/async-func.svg)
-[![](https://docs.rs/async-func/badge.svg)](https://docs.rs/async-func)
-[![](https://github.com/ltpp-universe/async-func/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/async-func/actions?query=workflow:Rust)
-[![](https://img.shields.io/crates/l/async-func.svg)](./LICENSE)
+[![](https://img.shields.io/crates/v/future-fn.svg)](https://crates.io/crates/future-fn)
+[![](https://img.shields.io/crates/d/future-fn.svg)](https://img.shields.io/crates/d/future-fn.svg)
+[![](https://docs.rs/future-fn/badge.svg)](https://docs.rs/future-fn)
+[![](https://github.com/ltpp-universe/future-fn/workflows/Rust/badge.svg)](https://github.com/ltpp-universe/future-fn/actions?query=workflow:Rust)
+[![](https://img.shields.io/crates/l/future-fn.svg)](./LICENSE)
 
 #### server-manager
 
