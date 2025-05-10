@@ -1,6 +1,22 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="./style.css">
-</head>
+<style>
+.link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.img {
+  border: 2px solid #818b981f;
+  border-radius: 20%;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: flex-start;
+}
+</style>
 
 # 个人简介
 
